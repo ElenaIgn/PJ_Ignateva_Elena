@@ -5,7 +5,7 @@
 применить на практике знания о HDFS, Spark, PySpark и базовых методах машинного обучения для решения реальной задачи анализа медицинских данных.
 
 
-## :open_file_folder: Data 
+## :open_file_folder: Данные (датасет) 
 https://github.com/ieee8023/covid-chestxray-dataset.git
 
 
