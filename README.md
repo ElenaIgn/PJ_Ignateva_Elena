@@ -130,9 +130,18 @@ Jupyter Lab: http://localhost:8888
 
 Столбчатую диаграмму распределения случаев COVID-19 по полу.
 
+<img width="618" height="547" alt="загружено (1)" src="https://github.com/user-attachments/assets/f3554493-bd7a-4e1f-869d-b7da1a81f06a" />
+
+
 Линейный график динамики случаев COVID-19 по годам и месяцам.
 
+<img width="1189" height="590" alt="загружено (2)" src="https://github.com/user-attachments/assets/67488a30-7154-4594-8f89-d9da1f34d59e" />
+
+
 Столбчатую диаграмму топ-5 локаций по количеству случаев COVID-19.
+
+<img width="989" height="590" alt="загружено (3)" src="https://github.com/user-attachments/assets/7280301f-06ba-4b33-ab0c-049b6dd37c9b" />
+
 
 Эти графики эффективно интерпретируют полученные аналитические выводы.
 
