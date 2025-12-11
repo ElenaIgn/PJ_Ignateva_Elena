@@ -126,6 +126,7 @@ Jupyter Lab: http://localhost:8888
 
 Круговую диаграмму распределения диагнозов.
 
+<img width="723" height="658" alt="загружено" src="https://github.com/user-attachments/assets/66550d83-0e94-4a4d-bf90-bfdf47bb4f95" />
 
 Столбчатую диаграмму распределения случаев COVID-19 по полу.
 
